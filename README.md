@@ -22,7 +22,7 @@ ucimlrepo: 0.0.7
 查看结果: 运行完成后，可以在 Notebook 中查看模型的性能评估结果，包括准确率、正类精确率和 AUC 值。
 
 # 使用的库和函数：
-plotnine: 用于数据可视化，类似于 ggplot2。\
+plotnine: 用于数据可视化。\
 matplotlib: 用于绘制图形。\
 seaborn: 基于 matplotlib 的高级绘图库。\
 scipy.stats.boxcox: 用于数据的 BOX-COX 变换。\
