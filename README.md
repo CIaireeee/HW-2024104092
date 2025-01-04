@@ -18,7 +18,7 @@ ucimlrepo: 0.0.7
 
 # 复现步骤：
 下载数据集: 使用 ucimlrepo 包从 UCI 机器学习数据库下载信用卡审批数据集。\
-运行代码: 打开 Jupyter Notebook，运行项目中的 credit_card_approval.ipynb 文件。该文件包含了数据预处理、模型训练和评估的完整代码。\
+运行代码: 打开 Jupyter Notebook，运行项目中的 creditcard_approval_prediction.ipynb 文件。该文件包含了数据预处理、模型训练和评估的完整代码。\
 查看结果: 运行完成后，可以在 Notebook 中查看模型的性能评估结果，包括准确率、正类精确率和 AUC 值。
 
 # 使用的库和函数：
